@@ -1,0 +1,1 @@
+Para gerenciamento e análise do projeto, optamos por utilizar do JIRA com modo SCRUM e Kanban;
