@@ -1,4 +1,0 @@
-● Contexto - Entendimento da organização, entendimento do negócio |  Quais são os problemas enfrentados pelo cliente? - OK
-● Diagrama de Escopo - OK
-● Matriz SIPOC - OK
-● Apresentação - OK
