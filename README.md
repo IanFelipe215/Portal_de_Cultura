@@ -6,3 +6,4 @@ O repositório está dividido em entregas, cada uma delas contendo um conjunto d
 
 ## :bust_in_silhouette: Autores
 Rodrigo Castro
+Gabriel Monteiro
