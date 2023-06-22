@@ -5,5 +5,4 @@ Este é o repositório do Projeto para documentação, gestão e exposição dos
 O repositório está dividido em entregas, cada uma delas contendo um conjunto de tarefas específicas a serem entregues e/ou apresentadas o cliente e/ou professores. Cada entrega possui sua própria pasta, onde você poderá encontrar todos os arquivos relevantes para a entrega, incluindo documentação, relatórios e links para recursos de mídia externos.
 
 ## :bust_in_silhouette: Autores
-Rodrigo Castro
-| Gabriel Monteiro
+Rodrigo Castro | Gabriel Monteiro | Ian Felipe
