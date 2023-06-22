@@ -1,1 +1,5 @@
-Para gerenciamento e análise do projeto, optamos por utilizar do JIRA com modo SCRUM e Kanban;
+Atavés do JIRA,  estabelecemos práticas ágeis seguindo o modelo SCRUM combinando com Kanban, promovendo cerimonias diarias para acompanhamento de tarefas que foram planejadas de modo a retratar uma história do usuário e parametrizadas via poker planning;
+No início de cada sprint, separamos as tasks à serem desenvolvidas nesta entrega e fazemos uma estimativa de tempo para cada uma delas.
+Com esta estimativa em mãos, escolhemos as tasks que serão desenvolvidas primeiro comparando o seu grau de importância e o tempo médio para entrega, deixando as tasks menos prioritárias e demoradas por último, já que não iriam impactar tanto na entrega final do projeto.
+Para acompanhar o projeto, como dito na questão 1, eu utilizaria o Kanban para que a equipe relatasse quanto tempo da task já foi entregue relativo ao tempo estimado, assim eu saberia com certa precisão quanto tempo ainda falta para finalização da sprint.
+Nossa motivação para implementar tais abordagens ageis do SCRUM num quadro Kanban, que permite uma melhor visualização das tarefas atribuídas aos desenvolvedores, é gerar mais engajamento e melhorar a comunicação na equipe.
